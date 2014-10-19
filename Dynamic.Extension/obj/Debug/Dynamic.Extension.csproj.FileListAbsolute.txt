@@ -1,0 +1,4 @@
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\Dynamic.Extension\Dynamic.Extension\bin\Debug\Dynamic.Extension.dll
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\Dynamic.Extension\Dynamic.Extension\bin\Debug\Dynamic.Extension.pdb
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\Dynamic.Extension\Dynamic.Extension\obj\Debug\Dynamic.Extension.dll
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\Dynamic.Extension\Dynamic.Extension\obj\Debug\Dynamic.Extension.pdb
