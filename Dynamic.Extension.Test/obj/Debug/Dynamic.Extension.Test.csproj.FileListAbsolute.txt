@@ -19,3 +19,7 @@ C:\Users\Diego\Documents\Progetti\Net\HunterRepo\Dynamic.Extension\Dynamic.Exten
 C:\Users\Diego\Documents\Progetti\Net\HunterRepo\Dynamic.Extension\Dynamic.Extension.Test\obj\Debug\Dynamic.Extension.Test.csprojResolveAssemblyReference.cache
 C:\Users\Diego\Documents\Progetti\Net\HunterRepo\Dynamic.Extension\Dynamic.Extension.Test\obj\Debug\Dynamic.Extension.Test.dll
 C:\Users\Diego\Documents\Progetti\Net\HunterRepo\Dynamic.Extension\Dynamic.Extension.Test\obj\Debug\Dynamic.Extension.Test.pdb
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\Dynamic.Extension\Dynamic.Extension.Test\bin\Debug\xunit.dll
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\Dynamic.Extension\Dynamic.Extension.Test\bin\Debug\xunit.xml
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\Dynamic.Extension\Dynamic.Extension.Test\bin\Debug\Dynamic.Extension.dll
+C:\Users\Diego\Documents\Progetti\Net\HunterRepo\Dynamic.Extension\Dynamic.Extension.Test\bin\Debug\Dynamic.Extension.pdb
