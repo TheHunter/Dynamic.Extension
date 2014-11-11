@@ -1,0 +1,6 @@
+C:\Users\larman\Documents\Github\Dynamic.Extension\Dynamic.Extension\bin\Release\Dynamic.Extension.XML
+C:\Users\larman\Documents\Github\Dynamic.Extension\Dynamic.Extension\bin\Release\Dynamic.Extension.dll
+C:\Users\larman\Documents\Github\Dynamic.Extension\Dynamic.Extension\bin\Release\Dynamic.Extension.pdb
+C:\Users\larman\Documents\Github\Dynamic.Extension\Dynamic.Extension\obj\Release\Dynamic.Extension.csprojResolveAssemblyReference.cache
+C:\Users\larman\Documents\Github\Dynamic.Extension\Dynamic.Extension\obj\Release\Dynamic.Extension.dll
+C:\Users\larman\Documents\Github\Dynamic.Extension\Dynamic.Extension\obj\Release\Dynamic.Extension.pdb
