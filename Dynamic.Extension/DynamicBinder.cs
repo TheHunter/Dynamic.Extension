@@ -5,18 +5,23 @@ using System.Linq;
 
 namespace Dynamic.Extension
 {
+    /// <summary>
+    /// An extension of DynamicObject class for extending itself with new members at runtime.
+    /// </summary>
     public class DynamicBinder
         : DynamicObject, IDynamicBinderProvider
     {
         private readonly IDictionary<string, object> dynamicMembers;
 
-
+        /// <summary>
+        /// 
+        /// </summary>
         public DynamicBinder()
         {
             this.dynamicMembers = new Dictionary<string, object>();
         }
 
-        
+        /// <inheritdoc/>
         public object this[string propertyName]
         {
             get
@@ -35,7 +40,7 @@ namespace Dynamic.Extension
             }
         }
 
-
+        /// <inheritdoc/>
         public override bool TryGetMember(GetMemberBinder binder, out object result)
         {
             if (this.dynamicMembers.ContainsKey(binder.Name))
@@ -47,7 +52,7 @@ namespace Dynamic.Extension
             return base.TryGetMember(binder, out result);
         }
 
-
+        /// <inheritdoc/>
         public override bool TrySetMember(SetMemberBinder binder, object value)
         {
             if (this.dynamicMembers.ContainsKey(binder.Name))
@@ -58,7 +63,7 @@ namespace Dynamic.Extension
             return true;
         }
 
-
+        /// <inheritdoc/>
         public override bool TryInvokeMember(InvokeMemberBinder binder, object[] args, out object result)
         {
             string binderName = binder.Name;
@@ -75,7 +80,7 @@ namespace Dynamic.Extension
             return base.TryInvokeMember(binder, args, out result);
         }
 
-
+        /// <inheritdoc/>
         public override bool TryDeleteMember(DeleteMemberBinder binder)
         {
             if (this.dynamicMembers.ContainsKey(binder.Name))
@@ -87,7 +92,7 @@ namespace Dynamic.Extension
             return base.TryDeleteMember(binder);
         }
 
-
+        /// <inheritdoc/>
         public override IEnumerable<string> GetDynamicMemberNames()
         {
             return this.dynamicMembers.Keys.ToArray();

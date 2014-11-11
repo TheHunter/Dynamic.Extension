@@ -48,3 +48,4 @@ C:\Users\larman\Documents\Github\Dynamic.Extension\Dynamic.Extension.Test\obj\De
 C:\Users\larman\Documents\Github\Dynamic.Extension\Dynamic.Extension.Test\obj\Debug\Dynamic.Extension.Test.csprojResolveAssemblyReference.cache
 C:\Users\larman\Documents\Github\Dynamic.Extension\Dynamic.Extension.Test\obj\Debug\Dynamic.Extension.Test.dll
 C:\Users\larman\Documents\Github\Dynamic.Extension\Dynamic.Extension.Test\obj\Debug\Dynamic.Extension.Test.pdb
+C:\Users\larman\Documents\Github\Dynamic.Extension\Dynamic.Extension.Test\bin\Debug\Dynamic.Extension.xml

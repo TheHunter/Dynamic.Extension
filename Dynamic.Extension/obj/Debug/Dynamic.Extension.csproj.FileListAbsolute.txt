@@ -6,3 +6,4 @@ C:\Users\larman\Documents\Github\Dynamic.Extension\Dynamic.Extension\bin\Debug\D
 C:\Users\larman\Documents\Github\Dynamic.Extension\Dynamic.Extension\bin\Debug\Dynamic.Extension.pdb
 C:\Users\larman\Documents\Github\Dynamic.Extension\Dynamic.Extension\obj\Debug\Dynamic.Extension.dll
 C:\Users\larman\Documents\Github\Dynamic.Extension\Dynamic.Extension\obj\Debug\Dynamic.Extension.pdb
+C:\Users\larman\Documents\Github\Dynamic.Extension\Dynamic.Extension\bin\Debug\Dynamic.Extension.XML
